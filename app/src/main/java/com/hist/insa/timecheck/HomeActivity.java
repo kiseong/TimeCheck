@@ -34,6 +34,7 @@ public class HomeActivity extends AppCompatActivity implements ConnectionCallbac
 
     // 1
     // b 1
+    // b 2
     private GoogleApiClient mGoogleApiClient;
     private Location mLastLocation;
     private Location mCurrentLocation;
