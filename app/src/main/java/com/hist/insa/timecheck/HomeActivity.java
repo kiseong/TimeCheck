@@ -33,6 +33,7 @@ import com.google.android.gms.location.LocationSettingsStatusCodes;
 public class HomeActivity extends AppCompatActivity implements ConnectionCallbacks, OnConnectionFailedListener, LocationListener {
 
     // 1
+    // m 1
 
     private GoogleApiClient mGoogleApiClient;
     private Location mLastLocation;
